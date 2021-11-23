@@ -1,4 +1,4 @@
-<h1 align="center">Xmarty_Music_2</h1>
+<h1 align="center">RSN_MUSIC</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED by [chiarg](https://t.me/teri_behn_ka_bf)
