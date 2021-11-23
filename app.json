@@ -1,6 +1,6 @@
 {
   "name": "RSN_MUSIC",
-  "logo": "https://telegra.ph/file/bf3d5334efaa345955275.jpg",
+  "logo": "https://telegra.ph/file/e458c67907b37b1bc2f70.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/Zacky1239/RSN_MUSIC",
@@ -58,7 +58,7 @@
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "Xmarty_Updates"
+      "value": "RSNxSupport"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
