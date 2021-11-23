@@ -1,11 +1,11 @@
 <h1 align="center">Xmarty_Music_2</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [XmartSalim](https://t.me/xmartperson)
-### Available on telegram as [@xmarty_music_robot](https://t.me/xmarty_music_robot)
+#### POWERED by [chiarg](https://t.me/teri_behn_ka_bf)
+### Available on telegram as [@rsn_support](https://t.me/rsn_support)
 
 <p align="center">
-  <img src="https://telegra.ph/file/3aa55e7efe0fabf05da4e.jpg">
+  <img src="https://telegra.ph/file/e458c67907b37b1bc2f70.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
