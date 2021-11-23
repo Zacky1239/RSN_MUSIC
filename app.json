@@ -1,9 +1,9 @@
 {
-  "name": "XmartyMusic",
+  "name": "RSN_MUSIC",
   "logo": "https://telegra.ph/file/bf3d5334efaa345955275.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/S780821/Xmarty_Music_2",
+  "repository": "https://github.com/Zacky1239/RSN_MUSIC",
   "stack": "container",
   "buildpacks": [
    {
